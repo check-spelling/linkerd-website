@@ -99,9 +99,9 @@ Just like this: Linkerd. Capital "L", lower-case everything else.
 
 See the [2.x
 maintainers](https://github.com/linkerd/linkerd2/blob/main/MAINTAINERS.md)
-file, and the [1.x
+[1.x
 maintainers](https://github.com/linkerd/linkerd/blob/main/MAINTAINERS.md)
-file.
+files.
 
 ## Is there an Enterprise edition, or a commercial edition?
 
