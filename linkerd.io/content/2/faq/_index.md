@@ -149,7 +149,7 @@ completed in June 2019, and Linkerd passed with flying colors.
 
 Very fast. A [third party performance evaluation of Linkerd vs
 Istio](https://linkerd.io/2019/05/18/linkerd-benchmarks/) was performed in May
-of 2019, and showed that Linkerd significantly outperformed Istio.
+of 2019 and showed that Linkerd significantly outperformed Istio.
 
 ## How do I use Linkerd to route traffic between services?
 
