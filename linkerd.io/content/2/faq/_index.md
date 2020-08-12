@@ -159,7 +159,7 @@ or `service-name` if within the same namespace.
 
 ## How does Linkerd handle ingress?
 
-(2.x) For reasons of simplicity, Linkerd doesn't provide ingress itself, but
+(2.x) For reasons of simplicity, Linkerd doesn't provide ingress itself but
 instead [works in conjunction with the ingress
 controller](https://linkerd.io/2/features/ingress/) of your choice.
 
