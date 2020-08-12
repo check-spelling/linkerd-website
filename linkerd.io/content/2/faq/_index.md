@@ -118,7 +118,7 @@ lighter weight than 1.x, but currently only supports Kubernetes.
 
 ## Is Linkerd 1.x still supported?
 
-Yes, the 1.x branch of Linkerd is under active development, and continues
+Yes, the 1.x branch of Linkerd is under active development and continues
 to power the production infrastructure of companies around the globe.
 
 [The full Linkerd 1.x documentation is here](/1/).
