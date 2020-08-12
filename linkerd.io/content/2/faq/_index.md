@@ -18,8 +18,8 @@ Linkerd is a [service
 mesh](https://blog.buoyant.io/2017/04/25/whats-a-service-mesh-and-why-do-i-need-one/).
 It adds observability, reliability, and security to cloud native applications
 without requiring code changes. For example, Linkerd can monitor and report
-per-service success rates and latencies, can automatically retry failed
-requests, and can encrypt and validate connections between services, all
+per-service success rates and latencies, automatically retry failed
+requests, and encrypt and validate connections between services, all
 without requiring any modification of the application itself.
 
 Linkerd works by inserting ultralight proxies (collectively, the "data plane")
