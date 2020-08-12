@@ -179,7 +179,7 @@ normal.
 
 If *new* proxies are deployed when the control plane is unreachable, these new
 proxies will not be able to operate. They will timeout all new requests until
-such time as they can reach the control plane.
+such a time as they can reach the control plane.
 
 ## How do I get involved?
 
