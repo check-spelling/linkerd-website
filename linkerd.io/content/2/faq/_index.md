@@ -126,7 +126,7 @@ to power the production infrastructure of companies around the globe.
 ## Does Linkerd require Kubernetes?
 
 Linkerd 2.x currently requires Kubernetes. Linkerd 1.x can be installed on any
-platform, and supports Kubernetes, DC/OS, Mesos, Consul, and ZooKeeper-based
+platform and supports Kubernetes, DC/OS, Mesos, Consul, and ZooKeeper-based
 environments.
 
 ## Where's the Linkerd roadmap?
