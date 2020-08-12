@@ -165,7 +165,7 @@ controller](https://linkerd.io/2/features/ingress/) of your choice.
 
 ## What happens to Linkerd's proxies if the control plane is down?
 
-Linkerd's proxies do not integrate with Kubernetes directly, but rely on the
+Linkerd's proxies do not integrate with Kubernetes directly but rely on the
 control plane for service discovery information. The proxies are designed to
 continue operating even if they can't reach the control plane.
 
